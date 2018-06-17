@@ -18,4 +18,4 @@ KnnMapReduce.java
 - 运行
 在已配置好Hadoop的环境中，编译代码文件，将生成的.class文件打包为jar包，使用命令`${HADOOP_HOME}/bin/hadoop jar Knn.jar KnnMapReduce /input /output`运行，其中`${HADOOP_HOME}`为Hadoop的安装目录；`Knn.jar`为前面打包的jar的文件名；`/input`为输入数据所在目录，即测试数据集的目录；`/output`为输出文件目录，可指定。
 
-[GitHub](https://www.google.com/)
+[GitHub](https://github.com/Azure0Sky/Cloud-Computing-Project)
